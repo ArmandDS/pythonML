@@ -1,0 +1,7 @@
+*.pyc
+*.csv
+*.rar
+*.zip
+doc slides/
+portaudio/
+books/
